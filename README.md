@@ -5,7 +5,7 @@ This project is a simple news website built using HTML, CSS, and JavaScript. It 
 - Displays the latest news from various sources using the News API
 - Easy to navigate and use
 - Responsive design for optimal viewing on different devices
-- 
+  
 ## Technologies Used
 - **HTML** for structuring the content
 - **CSS** for styling the website
